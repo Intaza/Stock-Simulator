@@ -134,3 +134,13 @@ http://localhost:3010/api/docs
 
 * News and stock data depend on third-party APIs.
 * Free APIs may introduce rate limits or downtime.
+
+---
+
+## Contact
+
+Check out my GitHub profile [Intaza](https://github.com/Intaza)  
+and visit this project repository [Stock Simulator](https://github.com/Intaza/Stock-Simulator)
+
+---
+Thank You! 
