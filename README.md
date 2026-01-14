@@ -1,4 +1,4 @@
-# Stock Trading 
+# Stock Trading Simulator
 
 A full-stack stock market and financial news tracking application.
 
@@ -8,13 +8,6 @@ A full-stack stock market and financial news tracking application.
 - Database: MongoDB
 - APIs: Yahoo Finance, NewsFilter
 - Documentation: Swagger
-
-Ahh okay — thanks for stopping me there 👍
-You’re right, and good catch. Let’s **reset and do this cleanly**, *accurate to what you actually used*, not a dressed-up demo version.
-
-Since you **used local MongoDB (not Atlas)**, here is a **corrected, minimal, honest GitHub setup section**. This is exactly what reviewers care about: *can I run it locally without guessing?*
-
----
 
 # Get Started 🚀
 
